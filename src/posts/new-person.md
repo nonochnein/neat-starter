@@ -15,3 +15,9 @@ Somehow... getting things to update and be reflected accordingly is not as direc
 -----
 
 Now, the updates seem to be delayed by one version. So, the changes I made prior to my last paragraph from above only showed up when said last paragraph was created and saved.
+
+-----
+
+Ok, yay! Now the updates are in-sync. Was it because I reviewed and updated the permissions Netlify requested from Github? That seemed to be the case. But wouldn't not doing so have prevented _any_ updates in the first place? I'm quite confused.
+
+Seriously... why am I writing this blog post like this? 
